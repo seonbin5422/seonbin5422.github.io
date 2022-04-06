@@ -15,7 +15,7 @@ body, p { margin: 0; }
     width: 800px;
     height: 300px;
     left: 100px;
-    top: 250px;
+    top: 100px;
     background-image: url("cat.png");
     background-size: cover; /* contain:이미지 전체가 보이도록, cover: 이미지가 박스에 가득 차게 */
     background-position-y: center;
