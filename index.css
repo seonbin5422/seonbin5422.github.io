@@ -18,7 +18,7 @@ body, p { margin: 0; }
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Grape Nuts', cursive;
     font-size: 7vw;
     color: rgba(105, 148, 139, 0.6);
 }
