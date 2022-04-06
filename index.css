@@ -20,5 +20,5 @@ body, p { margin: 0; }
     transform: translate(-50%, -50%);
     font-family: 'Grape Nuts', cursive;
     font-size: 7vw;
-    color: rgba(105, 148, 139, 0.6);
+    color: rgb(153, 0, 255);
 }
