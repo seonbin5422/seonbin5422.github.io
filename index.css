@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
 
 body, p { margin: 0; }
 #box1 {
@@ -20,5 +20,5 @@ body, p { margin: 0; }
     transform: translate(-50%, -50%);
     font-family: 'Rubik Moonrocks', cursive;
     font-size: 7vw;
-    color: rgba(255, 0, 0, 0.6);
+    color: rgba(105, 148, 139, 0.6);
 }
