@@ -1,12 +1,14 @@
 body, p { margin: 0; }
 
 .mybox {
+    display: inline-block;
     position: relative;
     width: 400px;
     margin-top: 24px;
     margin-left: 40px;
     padding: 16px;
     background-color: #ffd6e1;
+    overflow: visible;
 }
 .mybox img {
     width: 100%;
