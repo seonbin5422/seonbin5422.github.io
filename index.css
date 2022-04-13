@@ -9,7 +9,7 @@ body, p { margin: 0; }
     margin-left: 40px;
     padding: 16px;
     background-color: #ffd6e1;
-    overflow: visible;
+    overflow: hidden;
 }
 .mybox img {
     width: 100%;
