@@ -1,26 +1,128 @@
-body, p { margin: 0; }
-
-.mybox {
-    display: block;
-    position: static;
-    width: 400px;
-    float: left;
-    margin-top: 24px;
-    margin-left: 40px;
-    padding: 16px;
-    background-color: #000000;
-    overflow: hidden;
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
 }
-.mybox img {
-    width: 100%;
+:root {
+	--web-view-ids: Web_1920__1;
 }
-#ibox {
-    position: static;
-    width: 100px;
-    height: 100px;
-    margin-top: 24px;
-    margin-left: 40px; 
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
 }
-#ibox img {
-    width: 100%;
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1070px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#n_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1 {
+	position: absolute;
+	overflow: visible;
+	width: 748px;
+	height: 1079px;
+	left: 0px;
+	top: 0px;
+}
+#seonbin {
+	left: 90px;
+	top: 78px;
+	position: absolute;
+	overflow: visible;
+	width: 266px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: ChangwonDangamAsac;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 52px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#portfolio {
+	left: 88px;
+	top: 138px;
+	position: absolute;
+	overflow: visible;
+	width: 574px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: ChangwonDangamAsac;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 105px;
+	color: rgba(0,0,0,1);
+}
+#email {
+	left: 90px;
+	top: 318px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(0,0,0,1);
+}
+#instagram {
+	left: 90px;
+	top: 425px;
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(0,0,0,1);
+}
+#n_021-1 {
+	left: 90px;
+	top: 532px;
+	position: absolute;
+	overflow: visible;
+	width: 250px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(0,0,0,1);
+}
+#n_021-2 {
+	left: 90px;
+	top: 639px;
+	position: absolute;
+	overflow: visible;
+	width: 250px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(0,0,0,1);
 }
