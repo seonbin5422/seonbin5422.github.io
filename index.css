@@ -1,46 +1,3 @@
-.mediaViewInfo {
-	--web-view-name: portfolio;
-	--web-view-id: portfolio;
-	--web-scale-on-resize: true;
-	--web-enable-deep-linking: true;
-}
-:root {
-	--web-view-ids: portfolio;
-}
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-	border: none;
-}
-#portfolio {
-	position: absolute;
-	width: 1920px;
-	height: 1070px;
-	background-color: rgba(255,255,255,1);
-	overflow: hidden;
-	--web-view-name: portfolio;
-	--web-view-id: portfolio;
-	--web-scale-on-resize: true;
-	--web-enable-deep-linking: true;
-}
-#n_1 {
-	fill: rgba(255,255,255,1);
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.n_1 {
-	position: absolute;
-	overflow: visible;
-	width: 748px;
-	height: 1079px;
-	left: 0px;
-	top: 0px;
-}
 #seonbin {
 	left: 90px;
 	top: 78px;
@@ -55,7 +12,7 @@
 }
 #portfolio {
 	left: 88px;
-	top: 138px;
+	top: 100px;
 	position: absolute;
 	overflow: visible;
 	width: 574px;
@@ -64,7 +21,6 @@
     font-size: 52px;
 	color: rgba(0,0,0,1);
 	text-transform: uppercase;
-
 }
 #email {
 	left: 90px;
