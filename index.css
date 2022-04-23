@@ -49,9 +49,10 @@
 	width: 266px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: ChangwonDangamAsac;
-	font-style: normal;
-	font-weight: bold;
+        font-family: 'CWDangamAsac-Bold';
+        src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/CWDangamAsac-Bold.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
 	font-size: 52px;
 	color: rgba(0,0,0,1);
 	text-transform: uppercase;
@@ -64,11 +65,14 @@
 	width: 574px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: ChangwonDangamAsac;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 105px;
+        font-family: 'CWDangamAsac-Bold';
+        src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/CWDangamAsac-Bold.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    font-size: 52px;
 	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+
 }
 #email {
 	left: 90px;
