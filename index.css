@@ -1,11 +1,11 @@
 .mediaViewInfo {
-	--web-view-name: Web 1920 – 1;
-	--web-view-id: Web_1920__1;
+	--web-view-name: portfolio;
+	--web-view-id: portfolio;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Web_1920__1;
+	--web-view-ids: portfolio;
 }
 * {
 	margin: 0;
@@ -13,14 +13,14 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Web_1920__1 {
+#portfolio {
 	position: absolute;
 	width: 1920px;
 	height: 1070px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Web 1920 – 1;
-	--web-view-id: Web_1920__1;
+	--web-view-name: portfolio;
+	--web-view-id: portfolio;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -49,10 +49,6 @@
 	width: 266px;
 	white-space: nowrap;
 	text-align: left;
-        font-family: 'CWDangamAsac-Bold';
-        src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/CWDangamAsac-Bold.woff') format('woff');
-        font-weight: normal;
-        font-style: normal;
 	font-size: 52px;
 	color: rgba(0,0,0,1);
 	text-transform: uppercase;
@@ -65,10 +61,6 @@
 	width: 574px;
 	white-space: nowrap;
 	text-align: left;
-        font-family: 'CWDangamAsac-Bold';
-        src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/CWDangamAsac-Bold.woff') format('woff');
-        font-weight: normal;
-        font-style: normal;
     font-size: 52px;
 	color: rgba(0,0,0,1);
 	text-transform: uppercase;
