@@ -2,35 +2,25 @@ body, p { margin: 0; }
 
 .mybox {
     display: block;
-    position: relative;
+    position: static;
     width: 400px;
     float: left;
     margin-top: 24px;
     margin-left: 40px;
     padding: 16px;
-    background-color: #ffd6e1;
+    background-color: #000000;
     overflow: hidden;
 }
 .mybox img {
     width: 100%;
 }
 #ibox {
-    position: relative;
+    position: static;
     width: 100px;
     height: 100px;
     margin-top: 24px;
     margin-left: 40px; 
 }
 #ibox img {
-    width: 100%;
-}
-#look-at-me {
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    top: 2000px;
-    left: 24px;
-}
-#look-at-me img {
     width: 100%;
 }
