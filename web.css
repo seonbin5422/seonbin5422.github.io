@@ -1,0 +1,327 @@
+.mediaViewInfo {
+	--web-view-name: web;
+	--web-view-id: web;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: web;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#web {
+	position: absolute;
+	width: 1920px;
+	height: 6796px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: web;
+	--web-view-id: web;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#seonbin {
+	left: 538px;
+	top: 233px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: ChangwonDangamAsac;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#portfolio {
+	left: 538px;
+	top: 263px;
+	position: absolute;
+	overflow: visible;
+	width: 820px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: ChangwonDangamAsac;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(0,0,0,1);
+}
+#email {
+	left: 317.339px;
+	top: 252.754px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+#instagram {
+	left: 317.339px;
+	top: 321.502px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+#n_021-1 {
+	left: 342.839px;
+	top: 507.5px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n_021-2 {
+	left: 342.103px;
+	top: 2491px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n__2 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1105px;
+	height: 7213px;
+	left: 541px;
+	top: 524px;
+	overflow: hidden;
+}
+#n_21129448 {
+	position: absolute;
+	width: 1104px;
+	height: 1104px;
+	left: 1px;
+	top: 0px;
+	overflow: visible;
+}
+#text_p1 {
+	position: absolute;
+	width: 1104px;
+	height: 483px;
+	left: 0px;
+	top: 1222px;
+	overflow: visible;
+}
+#n____a_lighthouse_and_a_red_ro {
+	left: 0px;
+	top: 1141px;
+	position: absolute;
+	overflow: visible;
+	width: 478px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Han Sans K;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n____elephant_typeface {
+	left: 0px;
+	top: 1742px;
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Han Sans K;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n_1 {
+	position: absolute;
+	width: 1103px;
+	height: 4198px;
+	left: 0px;
+	top: 1969px;
+	overflow: visible;
+}
+#auctionredesign_p {
+	position: absolute;
+	width: 1102px;
+	height: 653px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_ {
+	position: absolute;
+	width: 1102px;
+	height: 732px;
+	left: 0px;
+	top: 760px;
+	overflow: visible;
+}
+#n_____AUCTION_redesign {
+	left: 0px;
+	top: 676px;
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Han Sans K;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#n__v {
+	position: absolute;
+	width: 1103px;
+	height: 2561px;
+	left: 0px;
+	top: 1577px;
+	overflow: visible;
+}
+#n_____BASKIN_ROBBINS_poster {
+	left: 0px;
+	top: 1516px;
+	position: absolute;
+	overflow: visible;
+	width: 539px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Han Sans K;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#n___beauty_brand_web_design {
+	left: 0px;
+	top: 4161px;
+	position: absolute;
+	overflow: visible;
+	width: 488px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Han Sans K;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#n_1_y {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1_y {
+	overflow: visible;
+	position: absolute;
+	width: 1103.5px;
+	height: 1px;
+	left: 0px;
+	top: 1877.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_1_z {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1_z {
+	overflow: visible;
+	position: absolute;
+	width: 2.764px;
+	height: 6463px;
+	left: 278px;
+	top: 217px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_2 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_2 {
+	overflow: visible;
+	position: absolute;
+	width: 50px;
+	height: 2px;
+	left: 278px;
+	top: 2507.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_3 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_3 {
+	overflow: visible;
+	position: absolute;
+	width: 50px;
+	height: 2px;
+	left: 278.764px;
+	top: 524px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#who_is_seonbin {
+	left: 1427px;
+	top: 458px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(156,156,156,1);
+	text-decoration: underline;
+}
