@@ -1,0 +1,199 @@
+.mediaViewInfo {
+	--web-view-name: web1;
+	--web-view-id: web1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: web1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#web1 {
+	position: absolute;
+	width: 1920px;
+	height: 1066px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: web1;
+	--web-view-id: web1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#seonbin {
+	left: 141px;
+	top: 93px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: ChangwonDangamAsac;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#portfolio {
+	left: 140px;
+	top: 117px;
+	position: absolute;
+	overflow: visible;
+	width: 329px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: ChangwonDangamAsac;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#email {
+	left: 192.5px;
+	top: 235.5px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+#instagram {
+	left: 192.5px;
+	top: 325.5px;
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+#n_021-1 {
+	left: 192.5px;
+	top: 415.5px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+#n_021-2 {
+	left: 192.5px;
+	top: 505.5px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: web2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#n__2 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1280px;
+	height: 949px;
+	left: 500px;
+	top: 67px;
+	overflow: hidden;
+}
+#n_21129448 {
+	position: absolute;
+	width: 1280px;
+	height: 1281px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#text_p1 {
+	position: absolute;
+	width: 1280px;
+	height: 560px;
+	left: 0px;
+	top: 1379px;
+	overflow: visible;
+}
+#n____a_lighthouse_and_a_red_ro {
+	left: 0px;
+	top: 1308px;
+	position: absolute;
+	overflow: visible;
+	width: 478px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Han Sans K;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n____elephant_typeface {
+	left: 0px;
+	top: 1966px;
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Han Sans K;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n_1 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 780.003px;
+	left: 141px;
+	top: 236px;
+	transform: matrix(1,0,0,1,0,0);
+}
