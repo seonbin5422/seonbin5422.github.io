@@ -35,41 +35,41 @@
 
 }
 #seonbin {
-	left: 140px;
-	top: 93px;
+	left: 183px;
+	top: 144px;
 	position: absolute;
 	overflow: visible;
-	width: 103px;
+	width: 77px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: ChangwonDangamAsac;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 15px;
 	color: rgba(0,0,0,1);
 	text-transform: uppercase;
 }
 #portfolio {
-	left: 140px;
-	top: 117px;
+	left: 183px;
+	top: 163px;
 	position: absolute;
 	overflow: visible;
-	width: 329px;
+	width: 252px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: ChangwonDangamAsac;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 60px;
+	font-size: 46px;
 	color: rgba(0,0,0,1);
 }
 #n__1 {
 	mix-blend-mode: normal;
 	position: absolute;
 	width: 1280px;
-	height: 950px;
-	left: 500px;
-	top: 67px;
+	height: 726px;
+	left: 458px;
+	top: 124px;
 	overflow: hidden;
 }
 #auctionredesign_p {
@@ -139,41 +139,41 @@
 	color: rgba(0,0,0,1);
 }
 #email {
-	left: 191.5px;
-	top: 236.5px;
+	left: 222.339px;
+	top: 253.8px;
 	position: absolute;
 	overflow: visible;
-	width: 97px;
+	width: 73px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 40px;
+	font-size: 30px;
 	color: rgba(0,0,0,1);
 	text-decoration: underline;
 }
 #instagram {
-	left: 191.5px;
-	top: 326.5px;
+	left: 222.339px;
+	top: 322.548px;
 	position: absolute;
 	overflow: visible;
-	width: 177px;
+	width: 133px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 40px;
+	font-size: 30px;
 	color: rgba(0,0,0,1);
 	text-decoration: underline;
 }
 #n_021-1 {
-	left: 191.5px;
-	top: 416.5px;
+	left: 222.339px;
+	top: 391.296px;
 	position: absolute;
 	overflow: visible;
-	width: 126px;
+	width: 94px;
 	white-space: nowrap;
 	--web-animation: fadein 0.30000001192092896s ease-out;
 	--web-action-type: page;
@@ -183,21 +183,21 @@
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 40px;
+	font-size: 30px;
 	color: rgba(0,0,0,1);
 }
 #n_021-2 {
-	left: 191.5px;
-	top: 506.5px;
+	left: 222.339px;
+	top: 460.045px;
 	position: absolute;
 	overflow: visible;
-	width: 126px;
+	width: 94px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 40px;
+	font-size: 30px;
 	color: rgba(0,0,0,1);
 	text-decoration: underline;
 }
@@ -213,9 +213,9 @@
 .n_2 {
 	overflow: visible;
 	position: absolute;
-	width: 3px;
-	height: 780.003px;
-	left: 140px;
-	top: 237px;
+	width: 2.764px;
+	height: 595.821px;
+	left: 183px;
+	top: 254.182px;
 	transform: matrix(1,0,0,1,0,0);
 }
