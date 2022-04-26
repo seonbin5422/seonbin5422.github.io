@@ -24,6 +24,16 @@
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
 #seonbin {
 	left: 538px;
 	top: 233px;
@@ -202,7 +212,7 @@
 	font-size: 26px;
 	color: rgba(0,0,0,1);
 }
-#n__v {
+#n__w {
 	position: absolute;
 	width: 1103px;
 	height: 2561px;
@@ -238,7 +248,7 @@
 	font-size: 26px;
 	color: rgba(0,0,0,1);
 }
-#n_1_y {
+#n_1_z {
 	fill: transparent;
 	stroke: rgba(0,0,0,1);
 	stroke-width: 1px;
@@ -247,7 +257,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_1_y {
+.n_1_z {
 	overflow: visible;
 	position: absolute;
 	width: 1103.5px;
@@ -256,7 +266,7 @@
 	top: 1877.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#n_1_z {
+#n_1_ {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(0,0,0,1);
 	stroke-width: 2px;
@@ -265,7 +275,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_1_z {
+.n_1_ {
 	overflow: visible;
 	position: absolute;
 	width: 2.764px;
@@ -310,13 +320,17 @@
 	top: 524px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#who_is_seonbin {
+#Who_is_Seonbin {
 	left: 1427px;
 	top: 458px;
 	position: absolute;
 	overflow: visible;
-	width: 216px;
+	width: 228px;
 	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: web___1.html;
+	cursor: pointer;
 	text-align: left;
 	font-family: Arial;
 	font-style: normal;
