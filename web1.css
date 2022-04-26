@@ -16,7 +16,7 @@
 #web1 {
 	position: absolute;
 	width: 1920px;
-	height: 1066px;
+	height: 7755px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: web1;
@@ -24,43 +24,33 @@
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
-@keyframes fadein {
-
-	0% {
-		opacity: 0;
-	}
-	100% {
-		opacity: 1;
-	}
-
-}
 #seonbin {
-	left: 184px;
-	top: 144px;
+	left: 461px;
+	top: 217px;
 	position: absolute;
 	overflow: visible;
-	width: 77px;
+	width: 255px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: ChangwonDangamAsac;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 15px;
+	font-size: 50px;
 	color: rgba(0,0,0,1);
 	text-transform: uppercase;
 }
 #portfolio {
-	left: 183px;
-	top: 162px;
+	left: 461px;
+	top: 247px;
 	position: absolute;
 	overflow: visible;
-	width: 252px;
+	width: 820px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: ChangwonDangamAsac;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 46px;
+	font-size: 150px;
 	color: rgba(0,0,0,1);
 }
 #email {
@@ -94,8 +84,8 @@
 	text-decoration: underline;
 }
 #n_021-1 {
-	left: 223.103px;
-	top: 390.251px;
+	left: 248.603px;
+	top: 507.5px;
 	position: absolute;
 	overflow: visible;
 	width: 94px;
@@ -106,19 +96,14 @@
 	font-weight: normal;
 	font-size: 30px;
 	color: rgba(0,0,0,1);
-	text-decoration: underline;
 }
 #n_021-2 {
-	left: 223.103px;
-	top: 458.999px;
+	left: 248.603px;
+	top: 2709px;
 	position: absolute;
 	overflow: visible;
 	width: 94px;
 	white-space: nowrap;
-	--web-animation: fadein 0.30000001192092896s ease-out;
-	--web-action-type: page;
-	--web-action-target: web2.html;
-	cursor: pointer;
 	text-align: left;
 	font-family: Arial;
 	font-style: normal;
@@ -129,10 +114,10 @@
 #n__2 {
 	mix-blend-mode: normal;
 	position: absolute;
-	width: 1280px;
-	height: 2010px;
-	left: 458px;
-	top: 124px;
+	width: 1281px;
+	height: 7213px;
+	left: 461px;
+	top: 524px;
 	overflow: hidden;
 }
 #n_21129448 {
@@ -180,6 +165,98 @@
 	color: rgba(0,0,0,1);
 }
 #n_1 {
+	position: absolute;
+	width: 1280px;
+	height: 4873px;
+	left: 1px;
+	top: 2192px;
+	overflow: visible;
+}
+#auctionredesign_p {
+	position: absolute;
+	width: 1280px;
+	height: 758px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_ {
+	position: absolute;
+	width: 1280px;
+	height: 850px;
+	left: 0px;
+	top: 882px;
+	overflow: visible;
+}
+#n_____AUCTION_redesign {
+	left: 0px;
+	top: 785px;
+	position: absolute;
+	overflow: visible;
+	width: 407px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Han Sans K;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n__v {
+	position: absolute;
+	width: 1280px;
+	height: 2972px;
+	left: 0px;
+	top: 1830px;
+	overflow: visible;
+}
+#n_____BASKIN_ROBBINS_poster {
+	left: 0px;
+	top: 1759px;
+	position: absolute;
+	overflow: visible;
+	width: 626px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Han Sans K;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n___beauty_brand_web_design {
+	left: 0px;
+	top: 4829px;
+	position: absolute;
+	overflow: visible;
+	width: 567px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Han Sans K;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n_1_y {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1_y {
+	overflow: visible;
+	position: absolute;
+	width: 1280.5px;
+	height: 1px;
+	left: 0px;
+	top: 2074.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_1_z {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(0,0,0,1);
 	stroke-width: 2px;
@@ -188,12 +265,63 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_1 {
+.n_1_z {
 	overflow: visible;
 	position: absolute;
 	width: 2.764px;
-	height: 595.821px;
+	height: 7376.939px;
 	left: 183.764px;
-	top: 253.136px;
+	top: 217px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#n_2 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_2 {
+	overflow: visible;
+	position: absolute;
+	width: 50px;
+	height: 2px;
+	left: 184.5px;
+	top: 2725.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_3 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_3 {
+	overflow: visible;
+	position: absolute;
+	width: 50px;
+	height: 2px;
+	left: 184.528px;
+	top: 524px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#who_is_seonbin {
+	left: 1527px;
+	top: 394px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(156,156,156,1);
+	text-decoration: underline;
 }
