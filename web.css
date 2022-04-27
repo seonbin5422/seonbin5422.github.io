@@ -16,7 +16,7 @@
 #web {
 	position: absolute;
 	width: 1920px;
-	height: 6796px;
+	height: 6867px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: web;
@@ -33,35 +33,6 @@
 		opacity: 1;
 	}
 
-}
-#seonbin {
-	left: 538px;
-	top: 233px;
-	position: absolute;
-	overflow: visible;
-	width: 255px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: ChangwonDangamAsac;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 50px;
-	color: rgba(0,0,0,1);
-	text-transform: uppercase;
-}
-#portfolio {
-	left: 538px;
-	top: 263px;
-	position: absolute;
-	overflow: visible;
-	width: 820px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: ChangwonDangamAsac;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 150px;
-	color: rgba(0,0,0,1);
 }
 #email {
 	left: 317.339px;
@@ -121,6 +92,228 @@
 	font-size: 30px;
 	color: rgba(0,0,0,1);
 }
+#n_1 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1 {
+	overflow: visible;
+	position: absolute;
+	width: 2.764px;
+	height: 6463px;
+	left: 278px;
+	top: 217px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_2 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_2 {
+	overflow: visible;
+	position: absolute;
+	width: 50px;
+	height: 2px;
+	left: 278px;
+	top: 2507.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_3 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_3 {
+	overflow: visible;
+	position: absolute;
+	width: 50px;
+	height: 2px;
+	left: 278.764px;
+	top: 524px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_14 {
+	position: absolute;
+	width: 555px;
+	height: 832px;
+	left: 1555px;
+	top: 5964px;
+	overflow: visible;
+}
+#n_2_p {
+	position: absolute;
+	width: 555px;
+	height: 832px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_8 {
+	position: absolute;
+	width: 144px;
+	height: 216px;
+	left: 91px;
+	top: 3258px;
+	overflow: visible;
+}
+#n_2_r {
+	position: absolute;
+	width: 144px;
+	height: 216px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_16 {
+	position: absolute;
+	width: 144px;
+	height: 216px;
+	left: 0px;
+	top: 6489px;
+	overflow: visible;
+}
+#n_2_t {
+	position: absolute;
+	width: 144px;
+	height: 216px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_26 {
+	position: absolute;
+	width: 1858px;
+	height: 1054px;
+	left: 54px;
+	top: -62px;
+	overflow: visible;
+}
+#n_3_v {
+	position: absolute;
+	width: 299px;
+	height: 449px;
+	left: 0px;
+	top: 62px;
+	overflow: visible;
+}
+#n_2_w {
+	position: absolute;
+	width: 299px;
+	height: 449px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_4 {
+	position: absolute;
+	width: 555px;
+	height: 832px;
+	left: 1303px;
+	top: 222px;
+	overflow: visible;
+}
+#n_2_y {
+	position: absolute;
+	width: 555px;
+	height: 832px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_5 {
+	position: absolute;
+	width: 220px;
+	height: 331px;
+	left: 1321px;
+	top: 0px;
+	overflow: visible;
+}
+#n_2_ {
+	position: absolute;
+	width: 220px;
+	height: 331px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_17 {
+	position: absolute;
+	width: 127px;
+	height: 191px;
+	left: 1674px;
+	top: 231px;
+	overflow: visible;
+}
+#n_2_ba {
+	position: absolute;
+	width: 127px;
+	height: 191px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_9 {
+	position: absolute;
+	width: 220px;
+	height: 331px;
+	left: 168px;
+	top: 3309px;
+	overflow: visible;
+}
+#n_2_bb {
+	position: absolute;
+	width: 220px;
+	height: 331px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_15 {
+	position: absolute;
+	width: 220px;
+	height: 331px;
+	left: 72px;
+	top: 6540px;
+	overflow: visible;
+}
+#n_2_bc {
+	position: absolute;
+	width: 220px;
+	height: 331px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_7 {
+	position: absolute;
+	width: 220px;
+	height: 331px;
+	left: 1635px;
+	top: 2235px;
+	overflow: visible;
+}
+#n_2_bd {
+	position: absolute;
+	width: 220px;
+	height: 331px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
 #n__2 {
 	mix-blend-mode: normal;
 	position: absolute;
@@ -174,7 +367,7 @@
 	font-size: 30px;
 	color: rgba(0,0,0,1);
 }
-#n_1 {
+#n_1_be {
 	position: absolute;
 	width: 1103px;
 	height: 4198px;
@@ -212,7 +405,7 @@
 	font-size: 26px;
 	color: rgba(0,0,0,1);
 }
-#n__w {
+#n__bi {
 	position: absolute;
 	width: 1103px;
 	height: 2561px;
@@ -248,7 +441,7 @@
 	font-size: 26px;
 	color: rgba(0,0,0,1);
 }
-#n_1_z {
+#n_1_bl {
 	fill: transparent;
 	stroke: rgba(0,0,0,1);
 	stroke-width: 1px;
@@ -257,7 +450,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_1_z {
+.n_1_bl {
 	overflow: visible;
 	position: absolute;
 	width: 1103.5px;
@@ -266,63 +459,25 @@
 	top: 1877.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#n_1_ {
-	fill: rgba(0,0,0,0);
-	stroke: rgba(0,0,0,1);
-	stroke-width: 2px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.n_1_ {
-	overflow: visible;
+#n_19 {
 	position: absolute;
-	width: 2.764px;
-	height: 6463px;
-	left: 278px;
-	top: 217px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#n_2 {
-	fill: transparent;
-	stroke: rgba(0,0,0,1);
-	stroke-width: 2px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.n_2 {
+	width: 1024.369px;
+	height: 320.589px;
+	left: 505px;
+	top: 177.708px;
 	overflow: visible;
+}
+#n_18 {
 	position: absolute;
-	width: 50px;
-	height: 2px;
-	left: 278px;
-	top: 2507.5px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#n_3 {
-	fill: transparent;
-	stroke: rgba(0,0,0,1);
-	stroke-width: 2px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.n_3 {
+	width: 1024.369px;
+	height: 320.589px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
-	position: absolute;
-	width: 50px;
-	height: 2px;
-	left: 278.764px;
-	top: 524px;
-	transform: matrix(1,0,0,1,0,0);
 }
 #Who_is_Seonbin {
-	left: 1427px;
-	top: 458px;
+	left: 1138px;
+	top: 432px;
 	position: absolute;
 	overflow: visible;
 	width: 228px;
@@ -338,4 +493,18 @@
 	font-size: 30px;
 	color: rgba(156,156,156,1);
 	text-decoration: underline;
+}
+#seonbin_2022 {
+	left: 842px;
+	top: 6777px;
+	position: absolute;
+	overflow: visible;
+	width: 237px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(170,170,170,1);
 }
