@@ -34,6 +34,14 @@
 	}
 
 }
+#n_27 {
+	position: absolute;
+	width: 429px;
+	height: 73.75px;
+	left: 290.5px;
+	top: 66.754px;
+	overflow: visible;
+}
 #email {
 	left: 317.339px;
 	top: 252.754px;
@@ -305,14 +313,6 @@
 	font-size: 30px;
 	color: rgba(156,156,156,1);
 	text-decoration: underline;
-}
-#n_28 {
-	position: absolute;
-	width: 429px;
-	height: 73.75px;
-	left: 290.5px;
-	top: 66.75px;
-	overflow: visible;
 }
 #email_seonbin5422navercom {
 	left: 0px;
