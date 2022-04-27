@@ -34,12 +34,20 @@
 	}
 
 }
-#email {
-	left: 317.339px;
-	top: 252.754px;
+#n_27 {
+	position: absolute;
+	width: 429px;
+	height: 73.75px;
+	left: 290.5px;
+	top: 66.754px;
+	overflow: visible;
+}
+#email_seonbin5422navercom {
+	left: 0px;
+	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 73px;
+	width: 430px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Arial;
@@ -49,12 +57,12 @@
 	color: rgba(0,0,0,1);
 	text-decoration: underline;
 }
-#instagram {
-	left: 317.339px;
-	top: 321.502px;
+#instagram_5eon8in__ {
+	left: 0px;
+	top: 40.75px;
 	position: absolute;
 	overflow: visible;
-	width: 133px;
+	width: 303px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Arial;
@@ -154,7 +162,7 @@
 	top: 5964px;
 	overflow: visible;
 }
-#n_2_p {
+#n_2_q {
 	position: absolute;
 	width: 555px;
 	height: 832px;
@@ -170,7 +178,7 @@
 	top: 3258px;
 	overflow: visible;
 }
-#n_2_r {
+#n_2_s {
 	position: absolute;
 	width: 144px;
 	height: 216px;
@@ -186,7 +194,7 @@
 	top: 6489px;
 	overflow: visible;
 }
-#n_2_t {
+#n_2_u {
 	position: absolute;
 	width: 144px;
 	height: 216px;
@@ -202,7 +210,7 @@
 	top: -62px;
 	overflow: visible;
 }
-#n_3_v {
+#n_3_w {
 	position: absolute;
 	width: 299px;
 	height: 449px;
@@ -210,7 +218,7 @@
 	top: 62px;
 	overflow: visible;
 }
-#n_2_w {
+#n_2_x {
 	position: absolute;
 	width: 299px;
 	height: 449px;
@@ -226,7 +234,7 @@
 	top: 222px;
 	overflow: visible;
 }
-#n_2_y {
+#n_2_z {
 	position: absolute;
 	width: 555px;
 	height: 832px;
@@ -367,7 +375,7 @@
 	font-size: 30px;
 	color: rgba(0,0,0,1);
 }
-#n_1_be {
+#n_1_bf {
 	position: absolute;
 	width: 1103px;
 	height: 4198px;
@@ -405,7 +413,7 @@
 	font-size: 26px;
 	color: rgba(0,0,0,1);
 }
-#n__bi {
+#n__bj {
 	position: absolute;
 	width: 1103px;
 	height: 2561px;
@@ -441,7 +449,7 @@
 	font-size: 26px;
 	color: rgba(0,0,0,1);
 }
-#n_1_bl {
+#n_1_bm {
 	fill: transparent;
 	stroke: rgba(0,0,0,1);
 	stroke-width: 1px;
@@ -450,7 +458,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_1_bl {
+.n_1_bm {
 	overflow: visible;
 	position: absolute;
 	width: 1103.5px;
