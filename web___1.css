@@ -16,7 +16,7 @@
 #web__1 {
 	position: absolute;
 	width: 1920px;
-	height: 1724px;
+	height: 1824px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: web – 1;
@@ -33,39 +33,6 @@
 		opacity: 1;
 	}
 
-}
-#seonbin {
-	left: 538px;
-	top: 233px;
-	position: absolute;
-	overflow: visible;
-	width: 255px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: ChangwonDangamAsac;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 50px;
-	color: rgba(0,0,0,1);
-	text-transform: uppercase;
-}
-#portfolio {
-	left: 538px;
-	top: 263px;
-	position: absolute;
-	overflow: visible;
-	width: 820px;
-	white-space: nowrap;
-	--web-animation: fadein 0.30000001192092896s ease-out;
-	--web-action-type: page;
-	--web-action-target: web.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: ChangwonDangamAsac;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 150px;
-	color: rgba(0,0,0,1);
 }
 #email {
 	left: 317.339px;
@@ -124,7 +91,7 @@
 	overflow: visible;
 	position: absolute;
 	width: 2.764px;
-	height: 1358.759px;
+	height: 1434.516px;
 	left: 278px;
 	top: 217px;
 	transform: matrix(1,0,0,1,0,0);
@@ -217,4 +184,110 @@
 	font-size: 35px;
 	color: rgba(0,0,0,1);
 	text-transform: uppercase;
+}
+#n_20 {
+	position: absolute;
+	width: 1024.369px;
+	height: 320.589px;
+	left: 505px;
+	top: 177.708px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: web.html;
+	cursor: pointer;
+}
+#n_18 {
+	position: absolute;
+	width: 1024.369px;
+	height: 320.589px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_25 {
+	position: absolute;
+	width: 1858px;
+	height: 1054px;
+	left: 54px;
+	top: -62px;
+	overflow: visible;
+}
+#n_21 {
+	position: absolute;
+	width: 299px;
+	height: 449px;
+	left: 0px;
+	top: 62px;
+	overflow: visible;
+}
+#n_2 {
+	position: absolute;
+	width: 299px;
+	height: 449px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_24 {
+	position: absolute;
+	width: 555px;
+	height: 832px;
+	left: 1303px;
+	top: 222px;
+	overflow: visible;
+}
+#n_2_x {
+	position: absolute;
+	width: 555px;
+	height: 832px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_22 {
+	position: absolute;
+	width: 220px;
+	height: 331px;
+	left: 1321px;
+	top: 0px;
+	overflow: visible;
+}
+#n_2_z {
+	position: absolute;
+	width: 220px;
+	height: 331px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_23 {
+	position: absolute;
+	width: 127px;
+	height: 191px;
+	left: 1674px;
+	top: 231px;
+	overflow: visible;
+}
+#n_2_ {
+	position: absolute;
+	width: 127px;
+	height: 191px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#seonbin_2022 {
+	left: 842px;
+	top: 1739px;
+	position: absolute;
+	overflow: visible;
+	width: 237px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(170,170,170,1);
 }
