@@ -192,10 +192,6 @@
 	left: 505px;
 	top: 177.708px;
 	overflow: visible;
-	--web-animation: fadein 0.30000001192092896s ease-out;
-	--web-action-type: page;
-	--web-action-target: web.html;
-	cursor: pointer;
 }
 #n_18 {
 	position: absolute;
@@ -290,4 +286,23 @@
 	font-weight: normal;
 	font-size: 35px;
 	color: rgba(170,170,170,1);
+}
+#back_to_home {
+	left: 1138px;
+	top: 432px;
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: web.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(156,156,156,1);
+	text-decoration: underline;
 }
