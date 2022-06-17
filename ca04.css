@@ -6,7 +6,7 @@ html, p {
 #object01 {
      position: fixed;
      top: 100px;
-     left: 100px;
+     left: 50%;
      width: 200px;
      height: 200px;
      background-color: aquamarine;
